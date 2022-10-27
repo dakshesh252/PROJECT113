@@ -1,0 +1,26 @@
+ 
+#heading{
+    font-size:30px;
+ }
+
+#button{
+    font-size: 20px;
+}
+
+body{
+    background-image: url("Black-Soft-Aesthetic-Wallpaper-HD.png");
+  background-size: cover;
+  align-items: center;
+}
+
+.container{
+    margin-left: 700px;
+}
+
+
+input{
+    margin-left: 30px;
+}
+button{
+   margin-left:  40px;
+}
